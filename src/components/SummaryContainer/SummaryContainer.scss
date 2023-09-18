@@ -1,0 +1,15 @@
+.summary{
+    display: flex;
+    margin-left: 50px;
+    // justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+    max-width: calc(100vw - 5rem);
+    padding-right: 2.6rem;
+    @media screen and (max-width:1479px) {
+        max-width: calc(100vw - 6rem)
+    }
+    overflow: hidden;
+}

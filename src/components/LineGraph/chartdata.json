@@ -1,0 +1,40 @@
+[
+    [
+        {
+            "name": "",
+            "User": 180,
+            "Guest": 100,
+            "amt": 450
+        },
+        {
+            "name": "Week 1",
+            "User": 240,
+            "Guest": 380,
+            "amt": 2000
+        },
+        {
+            "name": "Week 2",
+            "User": 420,
+            "Guest": 50,
+            "amt": 2400
+        },
+        {
+            "name": "Week 3",
+            "User": 150,
+            "Guest": 120,
+            "amt": 2210
+        },
+        {
+            "name": "Week 4",
+            "User": 120,
+            "Guest": 170,
+            "amt": 2290
+        },
+        {
+            "name": "",
+            "User": 240,
+            "Guest": 380,
+            "amt": 2000
+        }
+    ]
+]

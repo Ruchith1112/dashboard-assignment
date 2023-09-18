@@ -1,0 +1,79 @@
+.bottom_card {
+    position: relative; /* Required for absolute positioning */
+    height: 185px; /* Adjust the height of your bottom cards as needed */
+  }
+  
+  .center-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  /* Adjust the styling of the button as needed */
+  .center-button  {
+    color: #858585;
+    cursor: pointer;
+    font-family: Figtree;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+display: flex;
+flex-direction: column;
+gap: 16px;
+  }
+  
+  .center-img img{
+   background-color:#F5F5F5;
+    padding: 12px;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .card-head{
+    padding-left: 41px;
+    padding-top: 41px;
+    color: #000;
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Figtree;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px; /* 100% */
+  }
+ 
+
+
+
+ .card-sub {
+    padding-top: 40px;
+    padding-left: 41px;
+    column-count: 2;
+    gap: 19px;
+  }
+  
+  .what{
+    background: #E9F9EB;
+    padding: 5px;
+    border-radius: 50%;
+  }
+
+  .mail{
+    background: #E9F9EB;
+    padding: 5px;
+    border-radius: 50%;
+
+  }
+
+  .insta{
+    background: #FFE9EC;
+    padding: 5px;
+    border-radius: 50%;
+  }
+
+  .you{
+    background: #FFE9E9;
+    padding: 5px;
+    border-radius: 50%;
+  }

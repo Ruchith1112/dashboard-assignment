@@ -1,0 +1,125 @@
+.legend__entry {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.card__title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 70px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+
+    &--flex {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+
+    &__left {
+        width: 50%;
+    }
+
+}
+
+.schedule__title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.schedule-card {
+    display: flex;
+
+}
+
+.colorline {
+    height: 70px;
+    width: 10px;
+    margin-left: 40px;
+}
+
+.d-flex {
+    display: flex;
+    // justify-content: space-between;
+    gap: 1rem;
+}
+
+// .bottom_card {
+//     background-color: white;
+//     border-radius: 30px;
+//     margin-top: 20px;
+//     display: block;
+//     height: 246px;
+//     width: 100%;
+// }
+.schedule-card__container {
+    margin-bottom: 13px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.schedules {
+    // margin-right: 20px;
+    padding-top: 10px;
+    width: calc(50% - 3rem);
+    background-color: white;
+    border-radius: 30px;
+    margin-top: 40px;
+    display: block;
+    height: 246px;
+
+
+}
+
+.schedule {
+
+    &-card {
+        &__title {
+            font-style: normal;
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 17px;
+            color: #666666;
+            padding-top: 7px;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        &__time,
+        &__location {
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 14px;
+            color: #999999;
+            padding-top: 7px;
+
+        }
+    }
+}
+
+.text-light-schedule {
+    color: #999999;
+    padding-right: 8px;
+    font-weight: 400;
+}
+
+.top-products {
+    // margin-right: 20px;
+    margin-left: 50px;
+    width: calc(50% - 3rem);
+    background-color: white;
+    border-radius: 30px;
+    margin-top: 40px;
+    display: block;
+    height: 246px;
+
+}
+
+
+.pl-2{
+    padding-left: 4px;
+}

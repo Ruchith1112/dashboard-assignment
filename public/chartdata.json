@@ -1,0 +1,186 @@
+[
+    [
+        {
+            "name": "",
+            "User": 180,
+            "Guest": 100,
+            "amt": 450
+        },
+        {
+            "name": "Week 1",
+            "User": 240,
+            "Guest": 380,
+            "amt": 2000
+        },
+        {
+            "name": "Week 2",
+            "User": 420,
+            "Guest": 50,
+            "amt": 2400
+        },
+        {
+            "name": "Week 3",
+            "User": 150,
+            "Guest": 120,
+            "amt": 2210
+        },
+        {
+            "name": "Week 4",
+            "User": 120,
+            "Guest": 170,
+            "amt": 2290
+        },
+        {
+            "name": "",
+            "User": 240,
+            "Guest": 380,
+            "amt": 2000
+        }
+    ],
+    [
+        {
+            "name": "",
+            "User": 300,
+            "Guest": 120,
+            "amt": 1200
+        },
+        {
+            "name": "Week 1",
+            "User": 100,
+            "Guest": 480,
+            "amt": 2500
+        },
+        {
+            "name": "Week 2",
+            "User": 380,
+            "Guest": 50,
+            "amt": 2100
+        },
+        {
+            "name": "Week 3",
+            "User": 250,
+            "Guest": 190,
+            "amt": 1500
+        },
+        {
+            "name": "Week 4",
+            "User": 180,
+            "Guest": 270,
+            "amt": 2800
+        },
+        {
+            "name": "",
+            "User": 300,
+            "Guest": 120,
+            "amt": 1200
+        }
+    ],
+    [
+        {
+            "name": "",
+            "User": 120,
+            "Guest": 80,
+            "amt": 500
+        },
+        {
+            "name": "Week 1",
+            "User": 320,
+            "Guest": 420,
+            "amt": 2800
+        },
+        {
+            "name": "Week 2",
+            "User": 150,
+            "Guest": 250,
+            "amt": 1300
+        },
+        {
+            "name": "Week 3",
+            "User": 420,
+            "Guest": 90,
+            "amt": 3200
+        },
+        {
+            "name": "Week 4",
+            "User": 90,
+            "Guest": 200,
+            "amt": 1000
+        },
+        {
+            "name": "",
+            "User": 120,
+            "Guest": 80,
+            "amt": 500
+        }
+    ],
+    [
+        {
+            "name": "",
+            "User": 80,
+            "Guest": 200,
+            "amt": 600
+        },
+        {
+            "name": "Week 1",
+            "User": 300,
+            "Guest": 450,
+            "amt": 2600
+        },
+        {
+            "name": "Week 2",
+            "User": 200,
+            "Guest": 70,
+            "amt": 1900
+        },
+        {
+            "name": "Week 3",
+            "User": 420,
+            "Guest": 150,
+            "amt": 3100
+        },
+        {
+            "name": "Week 4",
+            "User": 70,
+            "Guest": 220,
+            "amt": 900
+        },
+        {
+            "name": "",
+            "User": 80,
+            "Guest": 200,
+            "amt": 600
+        }
+    ],
+    [
+        {
+            "name": "",
+            "User": 150,
+            "Guest": 180,
+            "amt": 800
+        },
+        {
+            "name": "Week 1",
+            "User": 260,
+            "Guest": 420,
+            "amt": 2300
+        },
+        {
+            "name": "Week 2",
+            "User": 350,
+            "Guest": 100,
+            "amt": 3200
+        },
+        {
+            "name": "Week 3",
+            "User": 90,
+            "Guest": 170,
+            "amt": 1200
+        },
+        {
+            "name": "Week 4",
+            "User": 180,
+            "Guest": 250,
+            "amt": 2100
+        }
+    ]
+]

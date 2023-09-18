@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 60px;
+    width: calc(100vw - 26rem);
+
+    &__title {
+        font-weight: bold;
+        font-size: 24px;
+    }
+
+    &__right {
+
+        :focus-visible {
+            outline: 0;
+        }
+
+        display: flex;
+        justify-content: space-around;
+        width:320px;
+        align-items: center;
+        margin-left: auto;
+    }
+}
+
+.header__right__searchbar {
+    background-color: white;
+    padding: 6px;
+    border-radius: 7px;
+}
+
+.header__right__searchbar input {
+    width: 180px;
+    background: transparent;
+    border-radius: 10px;
+    border: 0px solid white;
+    outline: 0;
+}
